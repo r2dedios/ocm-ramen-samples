@@ -9,4 +9,4 @@ patches:
   patch: |-
     - op: replace
       path: /spec/storageClassName
-      value: gp3-csi
+      value: ocs-storagecluster-ceph-rbd
